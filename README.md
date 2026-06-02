@@ -1,10 +1,3 @@
-Here is a professional, **Industry Grade `README.md`** file. You can include this in your project repository or deliver it alongside the files.
-
-It covers installation, usage, folder structure, and crucial security warnings specific to your shared hosting environment.
-
-***
-
-```markdown
 # 🚀 Infinity PHP Deployer
 
 A lightweight, self-hosted deployment dashboard designed for Shared Hosting environments (specifically optimized for **InfinityFree**). 
